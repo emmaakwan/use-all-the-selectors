@@ -13,3 +13,35 @@ body {
 header, footer {
   font-size: 1.5rem;
 }
+
+ul, nav {
+  font-family: sans-serif;
+}
+
+.logo {
+  text-transform: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
+}
+
+div {
+  background-color: #b58900;
+}
+
+div strong:nth-child(2) {
+  color: #fff;
+}
+
+li > a {
+  background-color: #fdf6e3;
+}
+
+ul li {
+  background-color: #fdf6e3;
+}
